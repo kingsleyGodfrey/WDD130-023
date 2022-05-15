@@ -1,7 +1,7 @@
 #content {
     max-width: 1600px;
-    width: 60%;
     margin: 0 auto;
+    text-align: center;
 }
 nav {
     text-align: center;
@@ -14,11 +14,15 @@ nav a {
     color: black;
     text-decoration: none;
 }
-img {
-    display: block;
-    width: 80%;
-    margin: 0 auto;
-    border: 4px solid steelblue;
+
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
+}
+#hero-img {
+    width: 100%;        
+}
+.card-img {
+    width: 400px;
 }
 
 .logo {
@@ -69,6 +73,7 @@ nav a:hover {
     background-color: #0b0c08;
     color: white;
 }
+
 .icon {
     width: 80px;
 }
