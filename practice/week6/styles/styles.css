@@ -1,0 +1,26 @@
+main {
+    margin: 0;
+    width: 50%;
+    height: 500px;
+    align-content: center;
+    background-color: cadetblue;
+    background-position-x: center;
+    font-size: large;
+    font-weight: 500;
+    color: brown;
+}
+
+#main {
+    width: 50%;  
+    border: 10px;  
+    border-style: double;
+    height: 500px;
+}
+hi {
+    border: 10px;
+    border-style: double;
+}
+a {
+    align-items: baseline;
+    font-size: large;
+}
